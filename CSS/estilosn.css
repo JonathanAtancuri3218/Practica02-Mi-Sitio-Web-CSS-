@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contenedor{
+	height: 1550px;
+	width: auto;
+}
+#contenido{
+	height: 1400px;
+	width: 1000px;
+	background: #EFEFEF;
+	margin:0 auto;
+}
+.seccion{
+height: 100%;
+	width: 75%;
+	background: #EFECEC;
+	float: left;
+}
+article h2{
+	font-size: 2.6em;
+}
+.aside{
+	height: 100%;
+	width: 25%;
+	background: #AFA9A9;
+	float: right;
+	
+}
+.header{
+	background: #B4045F;
+	color: aliceblue;
+	height: 80px;
+	text-align: center;
+	font-size: 2em;
+}
+article h1{
+	font-size: 3em;
+}
+.img{
+	height: auto;
+	width: 250px;
+	align-content: center;
+}
+#importante{
+	background: #A09B9B;
+	margin: 2em;
+	font-size: 1.2em;
+	
+}
+aside p{
+	font-size: 1.1em;
+}
+footer{
+	text-align: center;
+}
