@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contenedor{
+	height: 1000px;
+	width: auto;
+}
+
+
+
+#encabezado{
+	height: 15%;
+	background:red;
+	border-radius: 1em;
+}
+#navegacion{
+	height: 4%;
+	border-radius: 0.5em;
+	color: darkgreen;
+	font-size: 2em;
+	
+}
+#contenido{
+	height: 60%;
+	border-radius: 1em;
+}
+#seccion{
+	height: 100%;
+	width: 50%;
+	background: #EDF7EE;
+	align-items: center;
+	float: left;
+	border-radius: 1em;
+}
+#aside1{
+	height: 100%;
+	width: 25%;
+	float: left;
+	border-radius: 1em;
+	
+}
+#temas{
+	float: right;
+	margin: 1em;
+	padding-top: 4em;
+}
+#img{
+	height: 120px;
+	width: 400px;
+	padding: 1em;
+	opacity: 0.8;
+	
+}
+.articulo{
+	padding: 10px;
+	height: 42%;
+}
+footer{
+	height: 20%;
+	margin-top: 2em;
+	border-style: dashed;
+	border-color: #000000;
+	border-radius: 1em;
+}
+header h1{
+	margin: 0em;
+	padding: 1em;
+	text-align: left;
+	line-height: 100px;
+	
+}
+nav a{
+	font-size: 1em;
+}
+.noticias1{
+  margin: 5px;
+  padding: 0.2em;
+  height: 48%;
+  border-style: solid;
+  background-color: #1F5823;
+  border-radius: 1em;
+	
+}
+
+.imagen{
+	height: 120px;
+	width: 150px;
+	float: left;
+	padding-right: 10px;
+}
+footer p{
+	text-align: center;
+	font-size: 1.1em;
+	padding: 0.1em;
+}
